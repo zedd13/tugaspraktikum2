@@ -1,0 +1,90 @@
+html {
+    box-sizing: border-box;
+}
+
+/* judul tengah setaip menu */
+h2 {
+    text-align: center;
+}
+
+/* bg konten dan hover untuk sidebar */
+.bghitam,
+.hover:hover {
+    background-color: #111 !important;
+}
+
+/* atur lebar sidebar 120px */
+.sidebar-menu {
+    width: 130px;
+    background: #222;
+    height: 100%;
+    position: fixed;
+}
+
+/* meratakan gambar */
+.gambar {
+    max-width: 100%;
+    height: auto
+}
+
+.rata-tengah {
+    text-align: justify !important;
+    font-size: larger;
+    line-height: 2;
+}
+
+.button {
+    display: inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.bar-block .bar-item {
+    width: 100%;
+    padding: 2px;
+    white-space: normal;
+}
+
+.text-tengah {
+    text-align: center !important
+}
+
+.bar-item {
+    padding: 8px 50px;
+    border: none;
+}
+
+/* tulisan sosmed */
+i {
+    color: white;
+    text-decoration: none;
+}
+
+/* padding utama di konten */
+.padding-utama {
+    padding: 0px 34px !important
+}
+
+/* jarak antar menu */
+.padding22 {
+    padding-top: 22px !important;
+    padding-bottom: 22px !important
+}
+
+/* tabel jadwal */
+th {
+    color: white;
+    background-color: #222;
+    border-width: 4px;
+    border-style: solid;
+    border-color: inherit;
+    text-align: center;
+}
+
+td {
+    color: white;
+    background-color: #222;
+    border-width: 4px;
+    border-style: solid;
+    border-color: inherit;
+}
